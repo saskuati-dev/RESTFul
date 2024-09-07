@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "titulo": "Poor things",
+        "diretor": "yorgos",
+        "ano": 2023,
+        "nota": 10,
+        "duracao": 143,
+        "genero": "drama"
+    }
+]
